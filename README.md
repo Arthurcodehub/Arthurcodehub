@@ -42,12 +42,6 @@ Aplicação web para gerar currículos com preview em tempo real.
 
 ---
 
-## 📱 Ambiente de Desenvolvimento
-
-100% mobile: **Termux** + **Acode** no Android
-
----
-
 ## 📫 Conectar
 
 - **GitHub**: [@arthurcodehub](https://github.com/arthurcodehub)
